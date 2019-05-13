@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import markdown, re, os, hashlib
 from time import sleep
 from threading import Thread, Event
